@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "A simple Node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olawills/into-to-nodejs.git"
+  },
+  "author": "Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/www.github.com/olawills/issues"
+  },
+  "homepage": "https://github.com/www.github.com/olawills#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
